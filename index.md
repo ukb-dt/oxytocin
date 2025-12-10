@@ -102,11 +102,11 @@ Here is the 5-Phase evolution of Human Energy, fully structured.
 
 | Phase / Scale ($2\times 10^N$ KWh/day)  | The Math | Frequency (Hz) & Chem | Mythic Node | Cybernetic Role |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Person, Household** $[0, 1]$ | $(E, x)$ | **1.125 Hz**<br>(GABA/Adenosine) | **Chaos**<br>(The Raw Void) | **Calibrator**<br>(Baseline Setting) |
-| **2. Firm** $[3]$ | $E(t \mid x) + \epsilon$ | **3.25 Hz**<br>(Melatonin) | **Apollo + Dionysus**<br>(Flow + Noise) | **Instigator**<br>(Signal Generation) |
-| **3. City** $[6]$ | $\frac{dE_x}{dt}$ | **15 Hz**<br>(Serotonin/Li+) | **Zeus**<br>(Action/Vector) | **Exciter**<br>(Gain/Drive) |
-| **4. Superscalar** $[8]$ | $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$ | **7.5 Hz**<br>(Dopamine) | **Athena**<br>(Civilization/Shield) | **Governor**<br>(Damping/Stabilizing) |
-| **5. Nation/World** $[9, 10]$ | $\int E_x dt + \epsilon t + C_x$ | **30 Hz**<br>(ACh / NE) | **Mnemosyne**<br>(Total Memory) | **Regulator**<br>(Integration) |
+| **1. Person, Household** $[0, 1]$ | $(E, x)$ | **1.125, $\delta$ Hz**<br>(GABA/Adenosine) | **Chaos**<br>(The Raw Void) | **Calibrator**<br>(Baseline Setting) |
+| **2. Firm** $[3]$ | $E(t \mid x) + \epsilon$ | **3.25 Hz, $\theta$**<br>(Melatonin) | **Apollo + Dionysus**<br>(Flow + Noise) | **Instigator**<br>(Signal Generation) |
+| **3. City** $[6]$ | $\frac{dE_x}{dt}$ | **7.5 Hz, $\alpha$**<br>(Serotonin/Li+) | **Zeus**<br>(Action/Vector) | **Exciter**<br>(Gain/Drive) |
+| **4. Superscalar** $[8]$ | $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$ | **15 Hz, $\beta$**<br>(Dopamine) | **Athena**<br>(Civilization/Shield) | **Governor**<br>(Damping/Stabilizing) |
+| **5. Nation/World** $[9, 10]$ | $\int E_x dt + \epsilon t + C_x$ | **30 Hz, $\gamma$**<br>(ACh / NE) | **Mnemosyne**<br>(Total Memory) | **Regulator**<br>(Integration) |
 
 
 ### Detailed Breakdown of the Stack
