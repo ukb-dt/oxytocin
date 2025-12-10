@@ -108,7 +108,6 @@ Here is the 5-Phase evolution of Human Energy, fully structured.
 | **4. City** $[6]$ | $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$ | **7.5 Hz**<br>(Serotonin) | **Athena**<br>(Civilization/Shield) | **Governor**<br>(Damping/Stabilizing) |
 | **5. Super Scalar** $[8]$ | $\int E_x dt + \epsilon t + C_x$ | **30 Hz**<br>(ACh / NE) | **Mnemosyne**<br>(Total Memory) | **Regulator**<br>(Integration) |
 
------
 
 ### Detailed Breakdown of the Stack
 
