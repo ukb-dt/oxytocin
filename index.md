@@ -99,7 +99,7 @@ By mapping your thermodynamic variables and metabolic tiers to the oscillatory f
 ---
 
 ### **Level 1: Chaos & The Person ($N=0, 1$)**
-* **Variable:** $E(t \mid t) + \epsilon$ (Raw energy state plus noise)
+* **Variable:** $E(t \mid x) + \epsilon$ (Raw energy state plus noise)
 * **Oscillator:** $1.125\text{ Hz}$ (GABA/Adenosine) → Recovery
 * **Mythic Node:** Chaos
 * **Cybernetic Role:** **Calibrator.** The human baseline is metabolic. If the person (2–20 kWh/day) doesn't stabilize raw thermal noise into rest, the stack cannot begin.
