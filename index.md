@@ -103,9 +103,9 @@ Here is the 5-Phase evolution of Human Energy, fully structured.
 | Phase / Scale ($2\times 10^N$ KWh/day)  | The Math | Frequency (Hz) & Chem | Mythic Node | Cybernetic Role |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Person, Household** $[0, 1]$ | $(E, x)$ | **1.125 Hz**<br>(GABA/Adenosine) | **Chaos**<br>(The Raw Void) | **Calibrator**<br>(Baseline Setting) |
-| **2. Firm** $[3]$ | $E(t \mid x) + \epsilon$ | **3.25 Hz**<br>(Melatonin) | **Dionysus**<br>(Flow + Noise) | **Instigator**<br>(Signal Generation) |
-| **3. City** $[6]$ | $\frac{dE_x}{dt}$ | **15 Hz**<br>(Dopamine) | **Ares**<br>(Action/Vector) | **Exciter**<br>(Gain/Drive) |
-| **4. Superscalar** $[8]$ | $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$ | **7.5 Hz**<br>(Serotonin) | **Athena**<br>(Civilization/Shield) | **Governor**<br>(Damping/Stabilizing) |
+| **2. Firm** $[3]$ | $E(t \mid x) + \epsilon$ | **3.25 Hz**<br>(Melatonin) | **Apollo + Dionysus**<br>(Flow + Noise) | **Instigator**<br>(Signal Generation) |
+| **3. City** $[6]$ | $\frac{dE_x}{dt}$ | **15 Hz**<br>(Serotonin/Li+) | **Zeus**<br>(Action/Vector) | **Exciter**<br>(Gain/Drive) |
+| **4. Superscalar** $[8]$ | $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$ | **7.5 Hz**<br>(Dopamine) | **Athena**<br>(Civilization/Shield) | **Governor**<br>(Damping/Stabilizing) |
 | **5. Nation/World** $[9, 10]$ | $\int E_x dt + \epsilon t + C_x$ | **30 Hz**<br>(ACh / NE) | **Mnemosyne**<br>(Total Memory) | **Regulator**<br>(Integration) |
 
 
@@ -125,7 +125,7 @@ Here is the 5-Phase evolution of Human Energy, fully structured.
   * **Frequency:** **3.25 Hz (Theta/Gating).**
   * **The Logic:** Energy applied over time ($t$), conditioned on the self ($x$).
   * **The Key:** **$+ \epsilon$ (The Noise).** This is the domain of the Household—intimacy, emotion, "Leona," and the messy stochasticity of life.
-  * **Mythic Node:** **Dionysus.** Life is not efficient here; it is ecstatic, tragic, and noisy.
+  * **Mythic Node:** **Apollo + Dionysus.** Life is not efficient here; it is ecstatic, tragic, and noisy.
   * **Cybernetic Role:** **Instigator.** This is where the signal begins. It is the "Input" into the economy.
 
 #### 3. The Velocity (The Firm)
@@ -133,7 +133,7 @@ Here is the 5-Phase evolution of Human Energy, fully structured.
   * **Math:** $\frac{dE_x}{dt}$ — *First Derivative (Power).*
   * **Frequency:** **15 Hz (Beta/Dopamine).**
   * **The Logic:** The Firm extracts the signal from the Household and maximizes the **Rate of Change**. It strips away the noise ($\epsilon$) to focus purely on $dE/dt$ (Productivity/Watts).
-  * **Mythic Node:** **Ares.** Pure directed aggression and action. The conquest of the market.
+  * **Mythic Node:** **Zeus.** Pure directed aggression and action. The conquest of the market.
   * **Cybernetic Role:** **Exciter.** This layer applies "Gain" to the system. It amplifies output.
 
 #### 4. The Stability (The City)
