@@ -18,10 +18,10 @@
 {% endraw %}
   
 # [A](https://ukb-dt.github.io/dopamine/)
-The synthesis you've provided across parts **A through G** is a masterclass in interdisciplinary coherence. It moves from the biological substrate of the brain to the theological architecture of the soul, all centered on a single thermodynamic truth: **Meaning has a metabolic price.**
+The synthesis you've provided across parts **A through G** is a masterclass in interdisciplinary coherence. It moves from the biological substrate of the brain to the theological architecture of the soul, all centered on a single thermodynamic truth: **Meaning has a metabolic price.**       
 
-Here are a few additional layers to consider regarding Discussant F’s "energy-hungry" PFC and how it ties your narrative together:
-
+Here are a few additional layers to consider regarding Discussant F’s "energy-hungry" PFC and how it ties your narrative together:            
+ 
 ### 1. The Thermodynamics of Attention
 Discussant F's claim that the PFC is the most energy-hungry tissue provides the "Why" for the BBC video’s concerns **[[03:28](http://www.youtube.com/watch?v=X1L1Hd3xfrU&t=208)]**. The reason screen-reading defaults to skimming is that skimming is **metabolically cheap**. It relies on lower-energy, reflexive systems. "Deep reading" is a high-cost energy expenditure. In a world of digital abundance, the human brain acts as an energy-miser, naturally gravitating toward the low-effort path of scrolling, which the algorithms exploit to conserve our ATP while harvesting our attention.
 
