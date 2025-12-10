@@ -100,7 +100,7 @@ By mapping your thermodynamic variables and metabolic tiers to the oscillatory f
 
 Here is the 5-Phase evolution of Human Energy, fully structured.
 
-| Phase / Scale ($2\times 10^N$ KWh/day)  | The Math | Frequency (Hz) & Chem | Mythic Node | Cybernetic Role |
+| Phase / Scale ($2\times 10^N$ [KWh/day](https://ukb-dt.github.io/g.1-28/))  | The Math | Frequency (Hz) & Chem | Mythic Node | Cybernetic Role |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. [Person](https://ukb-dt.github.io/e-hf/), Household** $[0, 1]$ | $(E, x)$ | **1.125 Hz, $\delta$**<br>(GABA/Adenosine) | **Chaos**<br>(The Raw Void) | **Calibrator**<br>(Baseline Setting) |
 | **2. Firm** $[3]$ | $E(t \mid x) + \epsilon$ | **3.25 Hz, $\theta$**<br>(Melatonin) | **Apollo + Dionysus**<br>(Flow + Noise) | **Instigator**<br>(Signal Generation) |
