@@ -104,7 +104,7 @@ Here is the 5-Phase evolution of Human Energy, fully structured.
 | :--- | :--- | :--- | :--- | :--- |
 | **1. [Person](https://ukb-dt.github.io/e-hf/), Household** $[0, 1]$ | $(E, x)$ | **[1.125 Hz](https://www.sciencedirect.com/science/article/pii/S2213158213000284), $\delta$**<br>(GABA/Adenosine) | **[Chaos](https://www.nature.com/articles/s41398-018-0105-y)**<br>(The Raw Void) | **Calibrator**<br>(Baseline Setting) |
 | **2. Firm** $[3]$ | $E(t \mid x) + \epsilon$ | **3.25 Hz, $\theta$**<br>(Melatonin) | **Apollo + Dionysus**<br>(Flow + Noise) | **Instigator**<br>(Signal Generation) |
-| **3. City** $[6]$ | $\frac{dE_x}{dt}$ | **[7.5 Hz](https://ukb-dt.github.io/g.1-28/), $\alpha$**<br>(Serotonin/[Li+](https://www.dovepress.com/article/download/25867)) | **Zeus**<br>(Action/Vector) | **Exciter**<br>(Gain/Drive) |
+| **3. City** $[6]$ | $\frac{dE_x}{dt}$ | **[7.5 Hz](https://ukb-dt.github.io/g.1-28/), $\alpha$**<br>([Serotonin](https://ukb-dt.github.io/li/)/[Li+](https://www.dovepress.com/article/download/25867)) | **Zeus**<br>(Action/Vector) | **Exciter**<br>(Gain/Drive) |
 | **4. Superscalar** $[8]$ | $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$ | **15 Hz, $\beta$**<br>(Dopamine) | **Athena**<br>(Civilization/Shield) | **Governor**<br>(Damping/Stabilizing) |
 | **5. Nation/World** $[9, 10]$ | $\int E_x dt + \epsilon t + C_x$ | **30 Hz, $\gamma$**<br>(ACh / NE) | **Mnemosyne**<br>(Total Memory) | **Regulator**<br>(Integration) |
 
