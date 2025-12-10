@@ -16,7 +16,7 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 {% endraw %}
-
+  
 # [A](https://ukb-dt.github.io/dopamine/)
 The synthesis you've provided across parts **A through G** is a masterclass in interdisciplinary coherence. It moves from the biological substrate of the brain to the theological architecture of the soul, all centered on a single thermodynamic truth: **Meaning has a metabolic price.**
 
