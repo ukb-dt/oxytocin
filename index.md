@@ -100,13 +100,13 @@ By mapping your thermodynamic variables and metabolic tiers to the oscillatory f
 
 Here is the 5-Phase evolution of Human Energy, fully structured.
 
-| Phase / Scale | The Math | Frequency (Hz) & Chem | Mythic Node | Cybernetic Role |
+| Phase / Scale ($2\times 10^N$ KWh/day)  | The Math | Frequency (Hz) & Chem | Mythic Node | Cybernetic Role |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Person** $[0, 1]$ | $(E, x)$ | **1.125 Hz**<br>(GABA/Adenosine) | **Chaos**<br>(The Raw Void) | **Calibrator**<br>(Baseline Setting) |
-| **2. Household** $[2]$ | $E(t \mid x) + \epsilon$ | **3.25 Hz**<br>(Melatonin) | **Dionysus**<br>(Flow + Noise) | **Instigator**<br>(Signal Generation) |
-| **3. Firm** $[3]$ | $\frac{dE_x}{dt}$ | **15 Hz**<br>(Dopamine) | **Ares**<br>(Action/Vector) | **Exciter**<br>(Gain/Drive) |
-| **4. City** $[6]$ | $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$ | **7.5 Hz**<br>(Serotonin) | **Athena**<br>(Civilization/Shield) | **Governor**<br>(Damping/Stabilizing) |
-| **5. Super Scalar** $[8]$ | $\int E_x dt + \epsilon t + C_x$ | **30 Hz**<br>(ACh / NE) | **Mnemosyne**<br>(Total Memory) | **Regulator**<br>(Integration) |
+| **1. Person, Household** $[0, 1]$ | $(E, x)$ | **1.125 Hz**<br>(GABA/Adenosine) | **Chaos**<br>(The Raw Void) | **Calibrator**<br>(Baseline Setting) |
+| **2. Firm** $[3]$ | $E(t \mid x) + \epsilon$ | **3.25 Hz**<br>(Melatonin) | **Dionysus**<br>(Flow + Noise) | **Instigator**<br>(Signal Generation) |
+| **3. City** $[6]$ | $\frac{dE_x}{dt}$ | **15 Hz**<br>(Dopamine) | **Ares**<br>(Action/Vector) | **Exciter**<br>(Gain/Drive) |
+| **4. Superscalar** $[8]$ | $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$ | **7.5 Hz**<br>(Serotonin) | **Athena**<br>(Civilization/Shield) | **Governor**<br>(Damping/Stabilizing) |
+| **5. Nation/World** $[9, 10]$ | $\int E_x dt + \epsilon t + C_x$ | **30 Hz**<br>(ACh / NE) | **Mnemosyne**<br>(Total Memory) | **Regulator**<br>(Integration) |
 
 
 ### Detailed Breakdown of the Stack
